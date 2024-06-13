@@ -1,21 +1,34 @@
-# Java Login & Sign Up GUI
+# Projet G-Employee
 
-## JAVA - How To Design Login And Register Form In Java Netbeans
+## Description
 
+Ce projet est une application Java Desktop destinée à gérer les employés d'une entreprise. Il permet d'ajouter, modifier, supprimer et rechercher des informations sur les employés, ainsi que de générer des rapports.
 
-version: 1.0.0
+## Prérequis
 
-## TECHNOLOGIES
+- Java Development Kit (JDK) 11 ou ultérieur
+- Apache Maven 3.8.4 ou ultérieur
 
-1. Java
-1. Swing
-1. Java JFrame
+## Installation
 
+Pour installer et exécuter ce projet, suivez les étapes ci-dessous :
 
-## Full Tutorial
+### Cloner le dépôt
 
-[On Youtube](https://youtu.be/jHSBrX8lLWk)
+Tout d'abord, clonez ce dépôt Git en utilisant la commande suivante :
 
-## Authors
+Remplacez `https://github.com/yourusername/Gestion_Employee.git` par l'URL de votre dépôt.
 
-[Elias Abdurrahman](https://github.com/codingWithElias)
+### Construire le projet
+
+Naviguez dans le répertoire du projet et construisez-le avec Maven :
+
+Assurez-vous d'être dans le répertoire racine du projet lorsque vous exécutez cette commande.
+
+## Contribution
+
+Les contributions sont les bienvenues! Si vous souhaitez contribuer au projet, veuillez créer une branche à partir de la branche `main` et soumettre vos pull requests.
+
+## Licence
+
+Ce projet est licencié sous la licence MIT. Consultez le fichier `LICENSE` pour plus de détails.
